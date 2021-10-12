@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Spring Boot **
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java**
 
